@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#battlefield {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+#player-pokemon, #enemy-pokemon {
+    width: 40%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
